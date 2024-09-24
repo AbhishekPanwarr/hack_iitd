@@ -1,7 +1,3 @@
-Here is the content converted to a copyable format that you can use in your Word document:
-
----
-
 **Betrayal Risk Score (BRS) Calculation and Deployment**
 
 ### **Introduction**
@@ -227,8 +223,5 @@ $$w_S = w_S \times 1.25$$
 - **Docker**: For containerization.
 - **Heroku/AWS/Google Cloud**: For cloud deployment.
 
---- 
-
-This version of the documentation is formatted and structured for copying and pasting into a Word document or any other text editor. Let me know if you need further adjustments!
 
 
